@@ -13,6 +13,7 @@
     - \serverConsumer\src\main\java\com\example\serverconsumer\controller\TestUserController.java
     - \eurekaClient\src\main\java\com\example\eurekaclient\controller\UserController.java
     
-    
+- [hystrix使用](https://mrbird.cc/Spring-Cloud-Hystrix-Circuit-Breaker.html)
+    - \serverConsumer\src\main\java\com\example\serverconsumer\controller\TestUserController1.java
     
 
